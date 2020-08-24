@@ -11,15 +11,15 @@ The dependencies are header-only and are all included in the ext directory. As a
 
 ## Usage ##
 
-*Create a folder named build (for example)
+* Create a folder named build (for example)
 mkdir build
-*Enter folder
+* Enter folder
 cd build/
-*Run "CmakeLists.txt" which is a path before build
+* Run "CmakeLists.txt" which is a path before build
 cmake ..
-*Run make
+* Run make
 make
-*When the program has been built, run: 
+* When the program has been built, run: 
 ./random_fixed argv[1] argv[2] argv[3]
 
 ## Parameters ##
