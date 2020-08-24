@@ -12,15 +12,15 @@ The dependencies are header-only and are all included in the ext directory. As a
 ## Usage ##
 
 Create a folder named build (for example)
-user@user:~$ mkdir build
+mkdir build
 Enter folder
-user@user:~$ cd build/
+cd build/
 Run "CmakeLists.txt" which is a path before build
-user@user:~$ cmake ..
+cmake ..
 Run make
-user@user:~$ make
+make
 When the program has been built, run: 
-./name_executable
+./random_fixed argv[1] argv[2] argv[3]
 
 ## Parameters ##
 argv[1]: source cloud
