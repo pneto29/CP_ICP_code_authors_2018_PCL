@@ -5,7 +5,7 @@ Last modified: August 24, 2020
 Reference:
 Vitter, Jeffrey Scott. "Faster methods for random sampling." Communications of the ACM 27.7 (1984): 703-718.
 
-Responsible for implementation: Polycarpo Souza Neto
+Responsible for implementation: ***
 Documentation: https://pointclouds.org/documentation/classpcl_1_1_random_sample.html
 **********************************************************************************************************************/
 #include "validationlib.h"
