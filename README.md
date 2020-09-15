@@ -25,7 +25,7 @@ make
 
 ## Parameters ##
 * argv[1]: source cloud
-* argv[2]: number of output points
+* argv[2]: number of output points if you decide for the variant with 50% of the points, pass as a parameter that of the points in half ... if you choose 70%, pass the value referring to total -0.7 * num_points)
 * argv[3]: output to rnd_sampled_cloud
 
 ## Reference ##
